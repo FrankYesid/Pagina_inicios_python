@@ -14,20 +14,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Inteligencia Artificial: Conceptos y Aplicaciones | TalentoTech",
+  description: "Modern Next.js scaffold optimized for AI-powered development with TalentoTech. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
+  keywords: ["TalentoTech", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
+  authors: [{ name: "TalentoTech Team" }],
   openGraph: {
-    title: "Z.ai Code Scaffold",
+    title: "Inteligencia Artificial: Conceptos y Aplicaciones | TalentoTechd",
     description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    url: "https://tu-dominio.com",
+    siteName: "TalentoTech",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
+    title: "Inteligencia Artificial: Conceptos y Aplicaciones | TalentoTech",
     description: "AI-powered development with modern React stack",
   },
 };
